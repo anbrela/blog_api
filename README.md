@@ -1,2 +1,3 @@
-# blog_api
-Api Rest with JavaSpring
+# API REST with springboot for Blog purpouse.
+
+Initial commit.
